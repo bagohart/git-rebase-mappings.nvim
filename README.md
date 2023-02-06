@@ -27,5 +27,5 @@ An operator is not provided for this, since the usual case is to change only the
 Other git-rebase commands such as `exec` are not added for this kind of maping since they don't make sense in this context.
 
 ## Requirements
-Developed and tested on Neovim `0.8.1`.
-Needs [vim-repeat](https://github.com/tpope/vim-repeat).
+Developed and tested on Neovim `0.8.1`.  
+Requires [vim-repeat](https://github.com/tpope/vim-repeat).
